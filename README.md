@@ -17,3 +17,9 @@ The project focuses on Recursion over iteration:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/jadarodg/Roman-Numeral-Converter.git](https://github.com/jadarodg/Roman-Numeral-Converter.git)
+
+2. Navigate to the source folder and compile:
+     javac src/converter/RomanConverter.java
+
+3. Run the application:
+      java src/converter/RomanConverter
